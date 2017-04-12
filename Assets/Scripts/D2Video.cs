@@ -1,4 +1,7 @@
-﻿using UnityEngine;
+﻿/*
+    作者：ChenXingHua
+*/
+using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
